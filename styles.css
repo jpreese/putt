@@ -1396,8 +1396,9 @@ ul {
         max-width: 100%;
     }
     
-    .feature-list li {
-        justify-content: center;
+    .feature-list {
+        text-align: left;
+        display: inline-block;
     }
     
     .showcase-image {
